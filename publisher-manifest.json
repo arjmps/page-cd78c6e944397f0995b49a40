@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4f1a509907e2209fa4c54607",
+  "owner": "arjmps",
+  "repo": "page-cd78c6e944397f0995b49a40",
+  "title": "快猴",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cd78c6e944397f0995b49a40",
+      "a": "快猴",
+      "b": "2027官方最新地址导航",
+      "entity": "快猴",
+      "brand": "快猴",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "370c1d950524133faf751254a34d5677720aa12bce87b3993854288c69ebf6a1",
+      "content": {
+        "primary_entity": "快猴",
+        "keyword1": "快猴",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "快猴在手机、电脑和路由器上通过订阅导入使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开启快猴加速",
+          "AI_DESCRIPTION": "，面向日常浏览、流媒体和游戏场景，提供基础版、旗舰版与团队版三档订阅。基础版适合手机与平板轻度使用，旗舰版侧重多设备与专线游戏优化，团队版面向多终端和小型协作。按设备导入订阅后即可使用，年付价格比月付更省。",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路类型三个角度选择快猴套餐。",
+          "AI_FEATURES_TITLE": "快猴套餐要点",
+          "AI_FEATURE_TEXT_1": "每月100GB适合手机与平板轻度使用，月付15元，年付150元，支持3台设备同时在线。",
+          "AI_FEATURE_TEXT_2": "每月300GB覆盖多设备日常，支持5台设备，含IPLC专线游戏加速与流媒体解锁，年付350元。",
+          "AI_FEATURE_TEXT_3": "每月1000GB适合小型团队协作，支持20台设备，提供VIP高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "基础版轻量够用",
+          "AI_FEATURE_TITLE_2": "旗舰版多设备均衡",
+          "AI_FEATURE_TITLE_3": "团队版共享高带宽",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步完成快速上手。",
+          "AI_GUIDE_TITLE": "快猴使用步骤",
+          "AI_HERO_INTRO": "快猴为需要跨区访问的用户提供加速订阅，覆盖基础、旗舰和团队三种版本，按流量、设备数和线路类型区分。用户按设备安装客户端并导入订阅即可使用，年付方案价格更划算。",
+          "AI_HERO_SUBTITLE": "快猴订阅，按设备灵活选择",
+          "AI_HIGHLIGHT_1": "三档套餐按流量区分",
+          "AI_HIGHLIGHT_2": "支持多台设备同时在线",
+          "AI_HIGHLIGHT_3": "年付价格比月付更省",
+          "AI_PLANS_INTRO": "基础版每月15元含100GB流量，旗舰版每月35元含300GB流量并支持5台设备，团队版每月85元含1000GB流量与VIP节点。年付分别约150元、350元和850元。",
+          "AI_PLANS_TITLE": "对比快猴套餐",
+          "AI_STEP_TEXT_1": "按日常流量和设备数量，从基础版、旗舰版、团队版中挑选合适档位。",
+          "AI_STEP_TEXT_2": "确认所用设备是否在套餐支持的数量范围内，查看系统版本要求。",
+          "AI_STEP_TEXT_3": "按照对应客户端文档导入订阅信息，完成配置后开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "快猴加速订阅",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "Clash、Shadowrocket、v2rayN、Surge、Quantumult X 等主流客户端均支持导入订阅，具体请查阅对应客户端的订阅导入文档。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台、旗舰版 5 台、团队版 20 台设备同时在线，按实际设备数量选择即可。",
+          "AI_FAQ_ANSWER_3": "月度订阅与年度订阅都提供，按年付折算约为月付价格的 8.3 折，长期使用可考虑年度方案。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含 IPLC 专线节点，针对游戏与实时应用做了加速优化，延迟表现优于普通线路。",
+          "AI_FAQ_ANSWER_5": "复制订阅地址后在客户端粘贴导入即可，Android 推荐 v2rayNG 或 Clash for Android，iOS 推荐 Shadowrocket 或 Quantumult X。",
+          "AI_FAQ_QUESTION_1": "快猴支持哪些客户端？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量怎么计算？",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_QUESTION_5": "在手机上如何导入订阅？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "huanjiangrc.cn",
+    "host": "huanjiangrc.cn"
+  },
+  "file_hashes": {
+    "index.html": "cecab5ed02450a697c3e8d1df3e10af685c47be4fc4ab58b11126e546714a8ad",
+    "sitemap.xml": "e737d6527698a5962d4655db570673af83442374deec61e5cbf9e26c3f44f821",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9961d4967493e70018a8bce50f71b02d46437bf9ff6f881d367d8e96bf9932c8",
+    "robots.txt": "be779d8cfc5ce610bc2b991396bc9c25ac043bf2db10db7b274ca38d6b3e5f49",
+    "a115851e36967136d97076de3b9b6156.txt": "e98a88fbc97047815f972ecc8f7eb4d3b51b1361cfc0fa55fe8ee720581faf5e"
+  },
+  "revision": "03a6648cfda017a3a97e80587505f32ea3653fefbdf4edb5d10ec1af10e16f92"
+}
